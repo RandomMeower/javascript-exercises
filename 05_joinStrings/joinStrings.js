@@ -9,9 +9,13 @@
 
 // Add your code right below, good luck!
 
-
-
-
+firstName = "Adam"
+lastName = "Smith"
+thisYear = 2025
+birthYear = 2000
+fullName = firstName + " " + lastName
+age = thisYear - birthYear
+greeting = "Hello! My name is " + fullName + " and I am " + age + " years old.";
 
 // Do not change this
 module.exports = {
